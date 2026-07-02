@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://usdtconnect2me.github.io/USDT-CONNECT/sitemap.xml
